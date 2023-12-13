@@ -9,3 +9,5 @@ export default defineConfig({
         }),
     ],
 });
+
+let addCourse = true
